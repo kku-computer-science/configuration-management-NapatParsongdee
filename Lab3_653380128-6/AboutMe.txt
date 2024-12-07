@@ -1,3 +1,4 @@
 “Author: นายณภัทร ประสงค์ดี 653380128-6”
 “Section: 2”
-“My personal quote: bababoi”
+“My personal quote: bababoi...”
+“Semester 2/2567”
